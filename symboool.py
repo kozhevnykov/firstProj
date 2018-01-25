@@ -1,3 +1,9 @@
+def change_str(st):
+    if st.find(a) != -1:
+        return st[0:st.find(a)] + b + change_str(st[st.find(a)+len(a)::])
+    else:
+        return st
+
 s = input()
 a = input()
 b = input()
@@ -9,11 +15,10 @@ elif b.find(a) != -1:
 else:
     t=0
     while True:
-        t += 1
         if s.find(a) != -1:
-            s2 = s[0:s.find(a)] + b + s[s.find(a)+len(a)::]
-            s = s2
-            print(s)
+            s = change_str(s)
+            # print(s)
+            t=t+1
         else:
            print(t)
            break
