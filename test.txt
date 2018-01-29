@@ -1,0 +1,12 @@
+{'1760': 'Lemuel Francis Abbott', '1957': 'Michael Abrams', '1971': 'Ronald A. Westerhuis', '1979': 'Henrietta Acloque', '1963': 'Franz Ackermann', '1975': 'Dhruvi Acharya', '1965': 'Samira Abbassy', '1958': 'Ignasi Aballí', '1967': 'Francis Acea', '1946': 'Marina Abramović', '1909': 'Gertrude Abercrombie'}
+Lemuel Francis Abbott
+Gertrude Abercrombie
+Marina Abramović
+Michael Abrams
+Ignasi Aballí
+Franz Ackermann
+Samira Abbassy
+Francis Acea
+Ronald A. Westerhuis
+Dhruvi Acharya
+Henrietta Acloque
